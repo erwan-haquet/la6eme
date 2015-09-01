@@ -1,21 +1,40 @@
 body {
+	background-color: #98FB98;
+} 
+#bloc
+{
+	width: 979px;
+	min-height: 500px;
+	margin: auto;
 }
 header {
 	width: 979px;
-	margin: auto;
+	height: 150px;
+		background-color: white;
 }
 nav {
 	width: 979px;
-	margin: auto;
-	background-color: blue;
+
 }
 main {
 	width: 979px;
-	margin: auto;
-	background: green;
+
 }
 footer {
 	width: 979px;
-	margin: auto;
-	background: yellow;
+
+}
+
+img { 
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-width:5px;
+	border-style:ridge;
+ 	border-color:#F0E68C;
+}
+h1 {
+	font-family: 'Indie Flower', cursive;
+	color: rgba(39, 174, 96,1.0);
+	text-align: center;
 }
