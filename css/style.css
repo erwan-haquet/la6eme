@@ -6,3 +6,13 @@ header {
 	margin: auto;
 	background-color: red;
 }
+nav {
+	width: 800px;
+	margin: auto;
+	background-color: blue;
+}
+main {
+	width: 800px;
+	margin: auto;
+	background: green;
+}
