@@ -2,17 +2,22 @@ body {
 	background-color: black;
 }
 header {
-	width: 800px;
+	width: 900px;
 	margin: auto;
 	background-color: red;
 }
 nav {
-	width: 800px;
+	width: 900px;
 	margin: auto;
 	background-color: blue;
 }
 main {
-	width: 800px;
+	width: 900px;
 	margin: auto;
 	background: green;
+}
+footer {
+	width: 900px;
+	margin: auto;
+	background: yellow;
 }
