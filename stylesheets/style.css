@@ -1,0 +1,153 @@
+/* line 1, ../sass/style.scss */
+body {
+  background-color: #FFFAFA;
+}
+
+/* line 4, ../sass/style.scss */
+.main-photos {
+  width: 900px;
+  height: 150px;
+  background-color: black;
+}
+
+/* line 10, ../sass/style.scss */
+header {
+  height: 180px;
+  background-image: linear-gradient(to right, white, #808080);
+}
+
+/* line 14, ../sass/style.scss */
+main {
+  width: 979px;
+  min-height: 500px;
+}
+
+/* line 18, ../sass/style.scss */
+footer {
+  width: 979px;
+}
+
+/* line 21, ../sass/style.scss */
+img {
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-width: 5px;
+}
+
+/* line 27, ../sass/style.scss */
+h1 {
+  font-family: 'Varela Round', cursive;
+  color: #CD5C5C;
+  text-align: center;
+  padding-top: 70px;
+}
+
+/* line 33, ../sass/style.scss */
+.last {
+  margin-left: 0px !important;
+}
+
+/* line 38, ../sass/style.scss */
+li {
+  text-align: center;
+}
+
+/* line 41, ../sass/style.scss */
+.margin_bottom_25 {
+  margin-bottom: 25px;
+}
+
+/* line 44, ../sass/style.scss */
+a {
+  font-size: 16px;
+}
+
+/* line 48, ../sass/style.scss */
+.couleur_noir {
+  color: black;
+}
+
+/* line 51, ../sass/style.scss */
+.couleur_noir:hover {
+  color: black;
+}
+
+/* line 55, ../sass/style.scss */
+.couleur_rouge {
+  color: #ff0000;
+}
+
+/* line 58, ../sass/style.scss */
+.couleur_rouge:hover {
+  color: #ff0000;
+}
+
+/* line 62, ../sass/style.scss */
+.couleur_jaune {
+  color: #ffe500;
+}
+
+/* line 65, ../sass/style.scss */
+.couleur_jaune:hover {
+  color: #ffe500;
+}
+
+/* line 69, ../sass/style.scss */
+.couleur_bleu {
+  color: #0026ff;
+}
+
+/* line 72, ../sass/style.scss */
+.couleur_bleu:hover {
+  color: #0026ff;
+}
+
+/* line 76, ../sass/style.scss */
+.couleur_violet {
+  color: #a100ff;
+}
+
+/* line 79, ../sass/style.scss */
+.couleur_violet:hover {
+  color: #a100ff;
+}
+
+/* line 83, ../sass/style.scss */
+.couleur_orange {
+  color: #ff6100;
+}
+
+/* line 86, ../sass/style.scss */
+.couleur_orange:hover {
+  color: #ff6100;
+}
+
+/* line 91, ../sass/style.scss */
+.test {
+  height: 300px;
+  width: 652px;
+  background: grey;
+}
+
+/* line 96, ../sass/style.scss */
+.carousel-inner > .item > img {
+  margin-left: 130px;
+}
+
+/* line 100, ../sass/style.scss */
+h2 {
+  font-family: 'Bitter', Helvetica;
+  font-size: 22px;
+  text-decoration: underline;
+  text-align: center;
+  background-color: #e8e8e8;
+  margin-top: 0px;
+}
+
+/* line 108, ../sass/style.scss */
+h3 {
+  font-family: 'Bitter', Helvetica;
+  font-size: 18px;
+  background-color: #eaeaea;
+}
